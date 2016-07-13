@@ -1,3 +1,5 @@
 start main development
 
+print hello
+
 print hello guy
